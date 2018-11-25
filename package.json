@@ -1,0 +1,11 @@
+{
+  "name": "geeks-for-geeks",
+  "version": "1.0.0",
+  "description": "a computer science portal for geeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chitrang Mevawala",
+  "license": "ISC"
+}
